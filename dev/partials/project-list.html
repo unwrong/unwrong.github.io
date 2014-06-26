@@ -1,0 +1,37 @@
+<div>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div id="jumbotron-ext" class=" jumbotron">
+        <img src="../app/img/logo_lego.jpg" class="img-responsive" />
+    </div>
+
+    <div class="row">
+        <div class="col-md-2">
+            <!--Sidebar content-->
+
+            Search: <input ng-model="query">
+            Sort by:
+            <select ng-model="orderProp">
+                <option value="name">Alphabetical</option>
+                <option value="age">Newest</option>
+            </select>
+
+        </div>
+    </div>
+    
+    <div class="row phones">
+        <!--Body content-->
+
+        <div id="{{project.id}}" ng-repeat="project in projects | filter:query | orderBy:orderProp"
+             ng-mouseover="overState(project.id)" ng-mouseleave="defaultState(project.id)"
+             class="col-md-3 project-listing">
+            <div id="{{project.id + '-inner'}}" class="listing-inner">
+                <a href="#/projects/{{project.id}}"><img ng-src="{{project.imageUrl}}"></a>
+                <!--<br /><a href="#/projects/{{project.id}}">{{project.name}}</a>-->
+                <div id="{{project.id + '-title'}}" class="title" style="visibility: visible;">{{project.name}}</div>
+                <div id="{{project.id + '-details'}}" class="details" style="visibility: hidden;">
+                    <a href="#/projects/{{project.id}}">View Details</a><br>
+                    <a href="{{project.url}}" target="_blank">View Live</a>
+                </div>
+            </div>
+    </div>
+</div>

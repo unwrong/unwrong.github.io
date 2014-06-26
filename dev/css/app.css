@@ -1,0 +1,118 @@
+/* app css stylesheet */
+
+body {
+  padding-top: 20px;
+}
+
+
+#jumbotron-ext {
+  padding: 0px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  background-color: #ff0000;
+  border-radius: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+@media screen and (min-width: 768px) {
+  #jumbotron-ext  {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+
+/* PROJECT LIST VIEW */
+
+.project-listing {
+    background-color:#fff;
+    border:none;
+}
+.listing-inner {
+    width: 230px;
+    margin: 0 auto;
+    border:  1px solid #BEBEBE;
+    padding: 9px;
+}
+
+/*.phones {
+  list-style: none;
+}*/
+
+/* PROJECT DETAIL VIEW */
+/* main image */
+.project-detail {
+  margin-top: 3em;
+}
+
+.phone-images {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  width: 450px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+
+.thumb {
+  float: left;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+/*.phones li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}*/
+
+img.phone {
+  float: left;
+  background-color: white;
+  padding: 0em;
+  height: 300px;
+  width: 450px;
+  display: none;
+}
+
+img.phone:first-child {
+  display: block;
+}
+
+
+ul.phone-thumbs {
+  margin: 0;
+  list-style: none;
+}
+
+ul.phone-thumbs li {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 0.25em;
+  background-color: white;
+}
+
+ul.phone-thumbs img {
+  height: 75px;
+  width: 113px;
+  padding: 0em;
+}
+
+ul.phone-thumbs img:hover {
+  cursor: pointer;
+}
+
+h1 {
+  border-bottom: 1px solid gray;
+  margin-left: 0px;
+}
+
+@media screen and (min-width: 700px) {
+  h1 {
+    margin-left: 470px;
+  }
+}

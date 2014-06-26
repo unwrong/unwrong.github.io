@@ -1,0 +1,11 @@
+{
+    "name": "English Heritage Interactive Timeline",
+    "description": "We helped Digirati to produce a HTML5 interactive timeline for English Heritage. The timeline is a reusable jQuery control for plotting historical events pertaining to EH properties in a scrollable/zoomable interface. Events appear as coloured timespans, their colour denoting whether they are of local or global significance. Users may click on a timespan to see additional audio/video media pertaining to the event in an overlay. Timelines may be linked together via timespans to create hierarchies of nested events.", 
+    "id": "eh-timeline", 
+    "images": [
+        "img/projects/ehtimeline/slide1.jpg", 
+        "img/projects/ehtimeline/slide2.jpg", 
+        "img/projects/ehtimeline/slide3.jpg"
+    ],
+    "url": "http://www.english-heritage.org.uk/daysout/properties/dover-castle/wartime-tunnels/operation-dynamo/timeline/"
+}

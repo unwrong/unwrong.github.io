@@ -1,0 +1,11 @@
+{
+    "name": "Thom Sweeney",
+    "description": "Working with our friends at Your Mum we developed this slick content managed portfolio site for Mayfair tailors Thom Sweeney, using our CMS.", 
+    "id": "thom_sweeney", 
+    "images": [
+        "img/projects/thom_sweeney/casestudy1.jpg", 
+        "img/projects/thom_sweeney/casestudy2.jpg", 
+        "img/projects/thom_sweeney/casestudy3.jpg",
+        "img/projects/thom_sweeney/casestudy4.jpg"
+    ]
+}

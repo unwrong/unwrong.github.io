@@ -1,0 +1,12 @@
+{
+    "name": "Gartner Symposium",
+    "description": "We worked with our friends at Sloane Squared to produce this interactive map and agenda installation for the Gartner Symposium 2011 in Barcelona. We designed and developed the app in Flash to be displayed on 2 vertically oriented 42 LCD screens. The interactive map screen has a touch screen interface, and the agenda screen updates to display more specific content when a selection is made.", 
+    "id": "gartner", 
+    "images": [
+        "img/projects/gartner/casestudy5.jpg", 
+        "img/projects/gartner/casestudy1.jpg", 
+        "img/projects/gartner/casestudy2.jpg",
+        "img/projects/gartner/casestudy3.jpg",
+        "img/projects/gartner/casestudy4.jpg"
+    ]
+}

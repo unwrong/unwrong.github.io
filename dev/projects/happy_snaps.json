@@ -1,0 +1,12 @@
+{
+    "name": "Moshi Happy Snaps",
+    "description": "We worked with our friends at Tado to make this great little game for Mind Candy, promoting the launch of Moshling Zoo on the Nintendo DS. Take as many pictures of the Moshlings as you can before the time runs out, and remember to zoom in!", 
+    "id": "happy_snaps", 
+    "images": [
+        "img/projects/happy_snaps/casestudy1.jpg", 
+        "img/projects/happy_snaps/casestudy2.jpg", 
+        "img/projects/happy_snaps/casestudy4.jpg",
+        "img/projects/happy_snaps/casestudy5.jpg",
+        "img/projects/happy_snaps/casestudy6.jpg"
+    ]
+}
