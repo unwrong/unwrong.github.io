@@ -50,7 +50,7 @@ body {
 #jumbotron-ext {
   padding: 0px;
   margin-bottom: 30px;
-  margin-top: 0px;
+  margin-top: -20px;
   background-color: #ff0000;
   border-radius: 0px;
 }
