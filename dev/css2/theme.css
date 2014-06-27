@@ -1,0 +1,71 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+/* Navbar-ext styles
+--------------------------------------------------- */
+#navbar-ext {
+  margin-bottom: 0px;
+}
+
+/* Jumbotron-ext styles
+--------------------------------------------------- */
+#jumbotron-container {
+  padding: 0px;
+}
+#jumbotron-ext {
+  padding: 0px;
+  margin-bottom: 30px;
+  margin-top: -20px;
+  background-color: #ff0000;
+  border-radius: 0px;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+/*
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+*/
+.container .text-muted {
+  margin: 20px 0;
+}
