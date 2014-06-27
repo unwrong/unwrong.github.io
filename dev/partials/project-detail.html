@@ -1,17 +1,18 @@
 <div class="project-detail">
     <div class="project-images">
-        <img ng-src="{{img}}"
-             class="phone"
-             ng-repeat="img in phone.images"
-             ng-class="{active: mainImageUrl==img}">
+        <!--<img ng-src="{{img}}"
+             class="project"
+             ng-repeat="img in project.images"
+             ng-class="{active: mainImageUrl==img}">-->
+        <img ng-src="{{mainImageUrl}}" class="project">
     </div>
     <div>
-        <h1>{{phone.name}}</h1>
+        <h1>{{project.name}}</h1>
 
-        <p>{{phone.description}}</p>
+        <p>{{project.description}}</p>
 
         <ul class="project-thumbs">
-            <li ng-repeat="img in phone.images">
+            <li ng-repeat="img in project.images">
                 <img ng-src="{{img}}" ng-click="setImage(img)">
             </li>
         </ul>

@@ -31,7 +31,7 @@
   padding-top: 15px;
 }*/
 
-img.phone {
+img.project {
   float: left;
   background-color: white;
   padding: 0em;
@@ -40,7 +40,7 @@ img.phone {
   display: none;
 }
 
-img.phone:first-child {
+img.project:first-child {
   display: block;
 }
 

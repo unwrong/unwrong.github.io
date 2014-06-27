@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 /* Controllers */
 // RouteProvider defaults us to PhoneListCtrl & associates phone-list.html as the view.
 var ProjectListCtrl = (function () {
@@ -61,8 +61,8 @@ var ProjectDetailCtrl = (function () {
     ProjectDetailCtrl.prototype.init = function ($scope, $routeParams, Project) {
         this._scope = $scope;
 
-        $scope.phone = Project.get({ projectId: $routeParams.phoneId }, function (phone) {
-            $scope.mainImageUrl = phone.images[0];
+        $scope.project = Project.get({ projectId: $routeParams.phoneId }, function (project) {
+            $scope.mainImageUrl = project.images[0];
         });
 
         $scope.setImage = function (imageUrl) {

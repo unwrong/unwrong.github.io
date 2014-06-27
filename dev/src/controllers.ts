@@ -61,12 +61,12 @@ class ProjectDetailCtrl {
     public init($scope, $routeParams, Project): void {
         this._scope = $scope;
 
-        $scope.phone = Project.get({ projectId: $routeParams.phoneId }, function (phone) {
-            $scope.mainImageUrl = phone.images[0];
+        $scope.project = Project.get({ projectId: $routeParams.phoneId }, function (project) {
+            $scope.mainImageUrl = project.images[0];
         });
 
         $scope.setImage = function(imageUrl) {
-          $scope.mainImageUrl = imageUrl;
+            $scope.mainImageUrl = imageUrl;
         }
     }
 }
