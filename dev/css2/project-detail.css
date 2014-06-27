@@ -1,0 +1,79 @@
+﻿/* Project Detail View styles
+-------------------------------------------------- */
+
+/* main image */
+.project-detail {
+  margin-top: 3em;
+}
+
+.project-images {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  width: 450px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  float: left;
+}
+
+.thumb {
+  float: left;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+/*.phones li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}*/
+
+img.phone {
+  float: left;
+  background-color: white;
+  padding: 0em;
+  height: 300px;
+  width: 450px;
+  display: none;
+}
+
+img.phone:first-child {
+  display: block;
+}
+
+
+ul.project-thumbs {
+  margin: 0;
+  list-style: none;
+}
+
+ul.project-thumbs li {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 0.25em;
+  background-color: white;
+}
+
+ul.project-thumbs img {
+  height: 75px;
+  width: 113px;
+  padding: 0em;
+}
+
+ul.project-thumbs img:hover {
+  cursor: pointer;
+}
+
+h1 {
+  border-bottom: 1px solid gray;
+  margin-left: 0px;
+}
+
+@media screen and (min-width: 700px) {
+  h1 {
+    margin-left: 470px;
+  }
+}
