@@ -29,7 +29,7 @@ class RouteProvider {
 
 var phonecatApp = angular.module('phonecatApp', [
   'ngRoute',
-  'phonecatAnimations',
+  //'phonecatAnimations',
 
   'phonecatControllers',
   'phonecatFilters',
