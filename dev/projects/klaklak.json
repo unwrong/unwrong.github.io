@@ -1,0 +1,9 @@
+{
+    "name": "Klaklak",
+    "description": "Silverlight portfolio site for the Edinburgh-based design and photography studio.<br /><br />Here are some of the features:</p><ul><li>Fully content managed (images, text, video, dynamic menus)</li><li>Deep linking (pages within the Silverlight app can be linked to directly)</li><li>Google content indexing (Google can crawl the site content and index it)</li><li>Google Sitemaps support (An easy way for Google to discover pages within the site)</li><li>Google Analytics support (Enables tracking of all Silverlight/Html page views)</li><li>Internationalisation - (Ability to add different language versions. The site remembers your preferred language when returning)</li></ul>", 
+    "id": "klaklak", 
+    "images": [
+        "img/projects/klaklak/slide01.jpg", 
+        "img/projects/klaklak/slide02.jpg"
+    ]
+}

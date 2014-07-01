@@ -1,0 +1,13 @@
+{
+    "name": "Istanbul GP",
+    "description": "We developed this&nbsp;3D shockwave racing game with <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> for Petrol Ofisi. Speed around the streets of Istanbul in an F1 car competing against 3 AI opponents for the fastest lap time.", 
+    "id": "istanbul_gp", 
+    "images": [
+        "img/projects/istanbul_gp/1.jpg",
+        "img/projects/istanbul_gp/2.jpg",
+        "img/projects/istanbul_gp/3.jpg",
+        "img/projects/istanbul_gp/4.jpg",
+        "img/projects/istanbul_gp/5.jpg",
+        "img/projects/istanbul_gp/6.jpg"
+    ]
+}

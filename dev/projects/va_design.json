@@ -1,0 +1,10 @@
+{
+    "name": "V&amp;A Design Tool",
+    "description": "We worked with our friends at <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> to help create the poster gallery and poster editing tool for this lovely website.", 
+    "id": "va_design", 
+    "images": [
+        "img/projects/va_design/slide01.jpg",
+        "img/projects/va_design/slide02.jpg",
+        "img/projects/va_design/slide03.jpg"
+    ]
+}

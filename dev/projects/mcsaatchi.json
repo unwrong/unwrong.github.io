@@ -1,0 +1,13 @@
+{
+    "name": "M&amp;C Saatchi",
+    "description": "Working with Play we developed and helped to refine the architecture of this content managed Flash portfolio site.<br/>This is a hugely content rich portfolio launching with over 20 offices.<br/>All pages and content are managed using the Unwrong CMS.<br/>There is also a fully functional HTML version of the site running off the same CMS data, developed by our friends at StyleFoundry.<br/>Here are some of the site's key features:<ul><li>Fully content managed (images, text, video, dynamic menus)</li><li>Deep linking (pages within the Flash app can be linked to directly)</li><li>Google content indexing (Google can crawl the site content and index it)</li><li>Google Sitemaps support (An easy way for Google to discover pages within the site)</li><li>Google Analytics support (Enables tracking of all Flash/Html page views)</li><li>Content Delivery Network integration</li><li>Workflow support</li></ul>", 
+    "id": "mcsaatchi", 
+    "images": [
+        "img/projects/mcsaatchi/02.jpg", 
+        "img/projects/mcsaatchi/01.jpg", 
+        "img/projects/mcsaatchi/03_2.jpg",
+        "img/projects/mcsaatchi/04.jpg",
+        "img/projects/mcsaatchi/05.jpg",
+        "img/projects/mcsaatchi/06.jpg"
+    ]
+}

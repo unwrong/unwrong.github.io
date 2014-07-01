@@ -1,0 +1,11 @@
+{
+    "name": "BBC Gardening Pest and Disease Indentifier",
+    "description": "<p>Working with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> we developed this Pest and Disease Identifier tool for BBC Gardening. Every care was taken to make the tool as accessible as possible so it can be enjoyed by&nbsp;a wider audience.</p>", 
+    "id": "bbc_gardening", 
+    "images": [
+        "img/projects/bbc_gardening/1.jpg",
+        "img/projects/bbc_gardening/2.jpg",
+        "img/projects/bbc_gardening/3.jpg",
+        "img/projects/bbc_gardening/4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Communicator World",
+    "description": "We were happy to beinvolved in the creative process from early on in the project, this enabled us to set ourselves exciting and challenging technical goals that would make for a truly unique website.</p><p>One of the main technical challenges we faced was the creation of customizable avatars with artificial intelligence. Each avatar selects an activity (e.g. water the garden)&nbsp;based on those currently available and by order of priority. Once an activity is commenced they will go through a cycle of sub-activities until they are completed or they are too tired to continue. When tired out, they find a spot near the pool to recuperate. The avatars find their way about using a combination of isometric grid and A* pathfinding techniques. This&nbsp;helps to create&nbsp;the illusion that the avatars are autonomous and&nbsp;cooperating with each other towards a common goal.</p><p>Every section of the site is content managed using the Unwrong Cms. This allows the client to add/edit/delete profiles, photo galleries, jobs and&nbsp;portfolio items. We created a custom Swf component for the Unwrong Cms to enable Communicator to design personalised avatars. Communicator also have the ability to create private portfolio sections available via login.</p><p>The site has deep-linking functionality, which comes as a standard feature for any Unwrong Cms powered Flash site. With this system you could for instance send a direct link to your portfolio page, or perhaps you may wish to take the user straight to your holiday snaps.", 
+    "id": "communicator", 
+    "images": [
+        "img/projects/communicator/01.jpg", 
+        "img/projects/communicator/02.jpg", 
+        "img/projects/communicator/03.jpg", 
+        "img/projects/communicator/04.jpg", 
+        "img/projects/communicator/05.jpg", 
+        "img/projects/communicator/06.jpg", 
+        "img/projects/communicator/07.jpg", 
+        "img/projects/communicator/08.jpg", 
+        "img/projects/communicator/09.jpg", 
+        "img/projects/communicator/10.jpg", 
+        "img/projects/communicator/11.jpg", 
+        "img/projects/communicator/12.jpg" 
+    ]
+}

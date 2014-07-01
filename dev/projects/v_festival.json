@@ -1,0 +1,12 @@
+{
+    "name": "V Festival Game",
+    "description": "We developed this fun Flash game with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> to promote the V Festival. Development included creating a 2D ragdoll physics engine so the little man&#39;s limbs would wave about.", 
+    "id": "v_festival", 
+    "images": [
+        "img/projects/v_festival/1.jpg",
+        "img/projects/v_festival/2.jpg",
+        "img/projects/v_festival/3.jpg",
+        "img/projects/v_festival/4.jpg",
+        "img/projects/v_festival/5.jpg"
+    ]
+}

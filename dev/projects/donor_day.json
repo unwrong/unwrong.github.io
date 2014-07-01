@@ -1,0 +1,9 @@
+{
+    "name": "Saturn National Donor Day",
+    "description": "Take a look at this light-hearted microsite with a playful Operation style interface and a serious message about blood and marrow donation. Made in collaboration with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a>.", 
+    "id": "donor_day", 
+    "images": [
+        "img/projects/donor_day/1.jpg",
+        "img/projects/donor_day/2.jpg"
+    ]
+}

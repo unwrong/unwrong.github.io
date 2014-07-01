@@ -1,0 +1,17 @@
+{
+    "name": "Stella Artois - Cannes",
+    "description": "Working with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a>, we helped to plan and execute the integration of the user&#39;s Facebook content within the video sequence.<br /><br />Along with building the Flash front end, we provided tooling support via the Unwrong IDE, presenting&nbsp;a visual interface which the team could use to add images to the&nbsp;video,&nbsp;import tracking data from After Effects, create/edit a selection of visual filters and save their project as xml.<br /><br />As a&nbsp;result we have a successfully executed campaign and a powerful custom&nbsp;tool which can be used on future similar projects.", 
+    "id": "stella_cannes", 
+    "images": [
+        "img/projects/stella_cannes/1.jpg", 
+        "img/projects/stella_cannes/2.jpg", 
+        "img/projects/stella_cannes/3.jpg",
+        "img/projects/stella_cannes/4.jpg",
+        "img/projects/stella_cannes/5.jpg",
+        "img/projects/stella_cannes/6.jpg",
+        "img/projects/stella_cannes/7.jpg",
+        "img/projects/stella_cannes/8.jpg",
+        "img/projects/stella_cannes/9.jpg",
+        "img/projects/stella_cannes/10.jpg"
+    ]
+}

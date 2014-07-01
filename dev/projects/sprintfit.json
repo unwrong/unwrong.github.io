@@ -1,0 +1,13 @@
+{
+    "name": "Reebok Sprintfit Replay Tool",
+    "description": "Working with <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> we developed this Replay Tool for Reebok where users can create and share their favourite goals.<br /><br />The tool is an interactive 3D Flash environment where users can drag and drop players and assign actions to them using an intuitive library style interface. Once an animation is created the user can then scrub the timeline and view their animations updating in realtime, or simply press play to watch the final version.<br /><br />Follow the interactive tutorial and learn how to create, edit, save and share your favourite footballing moments, or view the gallery for inspiration.", 
+    "id": "sprintfit", 
+    "images": [
+        "img/projects/sprintfit/thumb1.jpg", 
+        "img/projects/sprintfit/thumb2.jpg", 
+        "img/projects/sprintfit/thumb3.jpg",
+        "img/projects/sprintfit/thumb4.jpg", 
+        "img/projects/sprintfit/thumb5.jpg", 
+        "img/projects/sprintfit/thumb6.jpg"
+    ]
+}

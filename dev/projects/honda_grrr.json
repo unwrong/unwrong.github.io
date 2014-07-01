@@ -1,0 +1,16 @@
+{
+    "name": "Honda Grrr Game",
+    "description": "We developed this lovely isometric Flash game with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> for Honda. Guide the bunny around various environments collecting carrots and bashing stuff up to make something better!", 
+    "id": "honda_grrr", 
+    "images": [
+        "img/projects/honda_grrr/01.jpg",
+        "img/projects/honda_grrr/02.jpg",
+        "img/projects/honda_grrr/03.jpg",
+        "img/projects/honda_grrr/04.jpg",
+        "img/projects/honda_grrr/05.jpg",
+        "img/projects/honda_grrr/06.jpg",
+        "img/projects/honda_grrr/07.jpg",
+        "img/projects/honda_grrr/08.jpg",
+        "img/projects/honda_grrr/09.jpg"
+    ]
+}

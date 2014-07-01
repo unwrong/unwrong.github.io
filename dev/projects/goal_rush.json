@@ -1,0 +1,11 @@
+{
+    "name": "Reebok Goal Rush",
+    "description": "We developed this highly stylised Flash game with <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> for Reebok. Help Thierry Henry beat the defenders and score a goal in progressively harder levels.", 
+    "id": "goal_rush", 
+    "images": [
+        "img/projects/goal_rush/slide01.jpg",
+        "img/projects/goal_rush/slide02.jpg",
+        "img/projects/goal_rush/slide03.jpg",
+        "img/projects/goal_rush/slide04.jpg"
+    ]
+}

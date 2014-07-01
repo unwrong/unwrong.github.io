@@ -1,0 +1,12 @@
+{
+    "name": "Nokia 500 PND Product Experience",
+    "description": "We worked with our friends at <a title='JS3D' href='http://www.js3d.co.uk/' target='_blank'>JS3D</a>&nbsp;to create this product experience website for the new Nokia 500 PND. Choose a destination on the PND and watch as it navigates you through the 3D world.", 
+    "id": "nokia_500", 
+    "images": [
+        "img/projects/nokia_500/slide1.jpg", 
+        "img/projects/nokia_500/slide2.jpg", 
+        "img/projects/nokia_500/slide3.jpg",
+        "img/projects/nokia_500/slide4.jpg",
+        "img/projects/nokia_500/slide5.jpg"
+    ]
+}

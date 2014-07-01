@@ -1,0 +1,10 @@
+{
+    "name": "Kerplunk",
+    "description": "We developed this Flash game with <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> to promote the board game by Hasbro. Take turns pulling straws, but try not to lose your marbles!", 
+    "id": "kerplunk", 
+    "images": [
+        "img/projects/kerplunk/slide01.jpg",
+        "img/projects/kerplunk/slide02.jpg",
+        "img/projects/kerplunk/slide03.jpg"
+    ]
+}

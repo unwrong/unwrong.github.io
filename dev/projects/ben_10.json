@@ -1,0 +1,14 @@
+{
+    "name": "Ben 10 Alien Strike",
+    "description": "Ben 10 is the shape shifting hero of the eponymous show from the Cartoon Network. Our friends at <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> asked us to think up and develop a fully-featured platform game, we had wanted to make a platformer for ages so this was the opportunity we&#39;d been waiting for!</p><p>The game has many of the conventional features of a regular platformer, but adds an extra dimension to showcase Ben&#39;s ability to transform into his alien alter-egos. This allowed us to have some fun with level design - transforming into Wild Mutt allows Ben to leap huge distances and cling to walls, whereas Four Arms transforms Ben into a scenery-wrecking&nbsp;juggernaut!</p><p>We realised early on in the project that we needed to create a level editor in Flash to streamline the game development process. Using this we could paint in walls and floors, drop in some baddies, assign them behaviours then click &quot;play&quot; to test the level.</p><p>The game features end of chapter boss battles with some of the baddies from the TV series, culminating in a showdown with the evil Vilgax. The sound and artwork supplied by Skive makes the whole game feel slick and atmospheric.", 
+    "id": "ben_10", 
+    "images": [
+        "img/projects/ben_10/slide01.jpg",
+        "img/projects/ben_10/slide02.jpg",
+        "img/projects/ben_10/slide03.jpg",
+        "img/projects/ben_10/slide04.jpg",
+        "img/projects/ben_10/slide05.jpg",
+        "img/projects/ben_10/slide06.jpg",
+        "img/projects/ben_10/slide07.jpg"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Fractal Explorer",
+    "description": "Explore the Mandelbrot Set with one of our more mathematical pet projects. To infinity and beyond!", 
+    "id": "fractal", 
+    "images": [
+        "img/projects/fractal/slide01.jpg", 
+        "img/projects/fractal/slide02.jpg", 
+        "img/projects/fractal/slide03.jpg"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "StudioLR",
+    "description": "StudioLR are an Edinburgh-based design consultancy. We helped them update their web presence with a fully content-managed Flash site based on designs they provided. The end result is an attractive and content-rich site with an inventive navigation system.", 
+    "id": "studio_lr", 
+    "images": [
+        "img/projects/studio_lr/1.jpg", 
+        "img/projects/studio_lr/2.jpg", 
+        "img/projects/studio_lr/3.jpg",
+        "img/projects/studio_lr/4.jpg",
+        "img/projects/studio_lr/5.jpg"
+    ]
+}

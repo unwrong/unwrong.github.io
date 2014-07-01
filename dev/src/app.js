@@ -27,7 +27,8 @@ var phonecatApp = angular.module('phonecatApp', [
     'ngRoute',
     'phonecatControllers',
     'phonecatFilters',
-    'phonecatServices'
+    'phonecatServices',
+    'angular-carousel'
 ]);
 
 var routeProvider = new RouteProvider();

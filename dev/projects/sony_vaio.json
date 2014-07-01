@@ -1,0 +1,10 @@
+{
+    "name": "Sony Vaio",
+    "description": "Working with <a title='unit9' href='http://www.unit9.com/' target='_blank'>unit9</a>, we&#39;ve developed the iceberg interface for this intriguing new site for Sony Vaio.", 
+    "id": "sony_vaio", 
+    "images": [
+        "img/projects/sony_vaio/slide01.jpg",
+        "img/projects/sony_vaio/slide02.jpg",
+        "img/projects/sony_vaio/slide03.jpg"
+    ]
+}

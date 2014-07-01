@@ -1,0 +1,10 @@
+{
+    "name": "Fable III: Kingmaker",
+    "description": "We helped <a href='http://www.unit9.com' target='blank'>unit9</a> to create this hugely successful Silverlight site for the latest instalment of the Fable series of games. Specifically we were responsible for the Silverlight build. Users can register to take part in a real-life capture the flag style game played using downloadable mobile apps. The site can be used to view the current status of the game with the rebel/royal captured regions displayed as overlays on an interative Bing map.", 
+    "id": "kingmaker", 
+    "images": [
+        "img/projects/kingmaker/slide1.jpg", 
+        "img/projects/kingmaker/slide2.jpg", 
+        "img/projects/kingmaker/slide3.jpg"
+    ]
+}

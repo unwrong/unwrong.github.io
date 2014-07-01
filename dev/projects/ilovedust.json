@@ -1,0 +1,13 @@
+{
+    "name": "I Love Dust",
+    "description": "We worked with the absurdly talented folks at ILoveDust to create their new portfolio site. Based on designs by ILoveDust we implemented a fully content-managed Flash site to showcase their expanding repertoire of work.<br />Some features include:<br /><br /><ul><li>Deep linking/share with a friend</li><li>Google Analytics Support</li><li>Google Sitemaps Support</li></ul>", 
+    "id": "ilovedust", 
+    "images": [
+        "img/projects/ilovedust/01.jpg",
+        "img/projects/ilovedust/02.jpg",
+        "img/projects/ilovedust/03.jpg",
+        "img/projects/ilovedust/04.jpg",
+        "img/projects/ilovedust/05.jpg",
+        "img/projects/ilovedust/06.jpg"
+    ]
+}

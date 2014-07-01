@@ -1,0 +1,10 @@
+{
+    "name": "Snowglobe",
+    "description": "We made this Shockwave 3D Snow Globe just for fun!", 
+    "id": "snowglobe", 
+    "images": [
+        "img/projects/snowglobe/slide01.jpg",
+        "img/projects/snowglobe/slide02.jpg",
+        "img/projects/snowglobe/slide03.jpg"
+    ]
+}

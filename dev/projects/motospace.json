@@ -1,0 +1,10 @@
+{
+    "name": "Motospace VR",
+    "description": "<p>We worked with our friends at&nbsp;<u><a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a></u> to create this online b2b training tool for Motorola resellers. The tool is comprised of three main sections:</p><ul><li>Learn Moto, where users get to grips with the latest handsets</li><li>Know Moto, where users are tested on products and can earn points</li><li>Live Moto, where users can spend their points on various prizes.</li></ul><p>The tool was built with content management and multilingual support in mind so it could be rolled out in multiple markets.</p>", 
+    "id": "motospace", 
+    "images": [
+        "img/projects/motospace/slide1.jpg",
+        "img/projects/motospace/slide2.jpg",
+        "img/projects/motospace/slide3.jpg"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "National Big Picture",
+    "description": "Working with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> we developed this&nbsp;great Flash application including drawing tool, Big Picture zooming tool and search facility.", 
+    "id": "big_picture", 
+    "images": [
+        "img/projects/big_picture/slide01.jpg",
+        "img/projects/big_picture/slide02.jpg",
+        "img/projects/big_picture/slide03.jpg"
+    ]
+}

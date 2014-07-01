@@ -1,0 +1,9 @@
+{
+    "name": "HP Festive Card",
+    "description": "We developed this lovely little Flash Festive Card with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> for Hewlett Packard. The artwork and sound supplied by unit9 make it quite a magical experience.", 
+    "id": "hp_festive", 
+    "images": [
+        "img/projects/hp_festive/01.jpg",
+        "img/projects/hp_festive/02.jpg"
+    ]
+}

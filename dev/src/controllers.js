@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 /* Controllers */
 // RouteProvider defaults us to PhoneListCtrl & associates phone-list.html as the view.
 var ProjectListCtrl = (function () {
@@ -58,7 +58,7 @@ var ProjectListCtrl = (function () {
 var ProjectDetailCtrl = (function () {
     function ProjectDetailCtrl() {
     }
-    ProjectDetailCtrl.prototype.init = function ($scope, $routeParams, Project) {
+    ProjectDetailCtrl.prototype.init = function ($scope, $sce, $routeParams, Project) {
         this._scope = $scope;
 
         $scope.project = Project.get({ projectId: $routeParams.phoneId }, function (project) {
@@ -67,6 +67,23 @@ var ProjectDetailCtrl = (function () {
 
         $scope.setImage = function (imageUrl) {
             $scope.mainImageUrl = imageUrl;
+        };
+
+        $scope.parseHTML = function (value) {
+            return $sce.trustAsHtml(value);
+        };
+
+        // Carousel
+        $scope.slideIndex = 0;
+        $scope.prev = function () {
+            $scope.slideIndex--;
+        };
+        $scope.next = function () {
+            $scope.slideIndex++;
+        };
+        $scope.swipe = true;
+        $scope.toggleSwipe = function () {
+            $scope.swipe = !$scope.swipe;
         };
     };
     return ProjectDetailCtrl;
@@ -77,5 +94,5 @@ var projectDetailCtrl = new ProjectDetailCtrl();
 
 var controllers = angular.module('phonecatControllers', []);
 controllers.controller('ProjectListCtrl', ['$scope', 'Project', projectListCtrl.init]);
-controllers.controller('ProjectDetailCtrl', ['$scope', '$routeParams', 'Project', projectDetailCtrl.init]);
+controllers.controller('ProjectDetailCtrl', ['$scope', '$sce', '$routeParams', 'Project', projectDetailCtrl.init]);
 //# sourceMappingURL=controllers.js.map

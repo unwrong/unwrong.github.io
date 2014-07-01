@@ -1,0 +1,11 @@
+{
+    "name": "Peruvian Wharf",
+    "description": "We worked with <a title='unit9' href='http://www.unit9.com/' target='_blank'>unit9</a> to create this technically ambitious and visually impressive site for Guru.", 
+    "id": "peruvian", 
+    "images": [
+        "img/projects/guru/slide01.jpg",
+        "img/projects/guru/slide02.jpg",
+        "img/projects/guru/slide03.jpg",
+        "img/projects/guru/slide04.jpg"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Fosters Shadow Napping Ads",
+    "description": "We worked with <a title='Play' href='http://www.playwithus.co.uk' target='_blank'>Play</a> to create this series of 5 content rich interactive video banners for the Fosters Shadow Napping campaign.<br /><br />Users are encouraged to tire out their opponent with the mouse in order to attempt to steal their shadow, and are awarded points for speed and damage inflicted. These points can then be passed to the microsite and added to their team totals.<br /><br />There are also a number of amusing secret clips that can be triggered by&nbsp;entering special codes.", 
+    "id": "shadow_napping", 
+    "images": [
+        "img/projects/shadow_napping/01.jpg", 
+        "img/projects/shadow_napping/02.jpg", 
+        "img/projects/shadow_napping/03.jpg",
+        "img/projects/shadow_napping/04.jpg",
+        "img/projects/shadow_napping/05.jpg",
+        "img/projects/shadow_napping/06.jpg",
+        "img/projects/shadow_napping/07.jpg",
+        "img/projects/shadow_napping/08.jpg",
+        "img/projects/shadow_napping/09.jpg",
+        "img/projects/shadow_napping/10.jpg"
+    ]
+}

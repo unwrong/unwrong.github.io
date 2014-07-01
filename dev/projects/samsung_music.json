@@ -1,0 +1,17 @@
+{
+    "name": "Samsung Music",
+    "description": "We worked with our friends at <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> to help create this immersive audio visual experience for Samsung Mobile.</p><p>The idea of objects reacting to sound was key to the success of this site, so we employed several techniques to ensure the visual feedback synched well with the sound being played.</p><p>The 3D Soundscape was created using <a title='Papervision' href='http://blog.papervision3d.org/' target='_blank'>Papervision3D</a>. Users are able to create and edit their own soundscape then share it with friends.</p><p>The website and all of the objects in the Soundscape are content managed. The Soundscape objects are content managed via a purpose built tool we made in Flex for creating shapes that react to audio input.", 
+    "id": "samsung_music", 
+    "images": [
+        "img/projects/samsung_music/slide01.jpg",
+        "img/projects/samsung_music/slide02.jpg",
+        "img/projects/samsung_music/slide03.jpg",
+        "img/projects/samsung_music/slide04.jpg",
+        "img/projects/samsung_music/slide05.jpg",
+        "img/projects/samsung_music/slide06.jpg",
+        "img/projects/samsung_music/slide07.jpg",
+        "img/projects/samsung_music/slide08.jpg",
+        "img/projects/samsung_music/slide09.jpg",
+        "img/projects/samsung_music/slide10.jpg"
+    ]
+}

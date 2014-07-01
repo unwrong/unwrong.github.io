@@ -1,0 +1,11 @@
+{
+    "name": "Evian Snowball Election",
+    "description": "We developed this addictive little Flash game with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> for Evian.", 
+    "id": "snowball_election", 
+    "images": [
+        "img/projects/snowball_election/1.jpg",
+        "img/projects/snowball_election/2.jpg",
+        "img/projects/snowball_election/3.jpg",
+        "img/projects/snowball_election/4.jpg"
+    ]
+}

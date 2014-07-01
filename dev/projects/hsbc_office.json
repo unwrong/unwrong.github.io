@@ -1,0 +1,10 @@
+{
+    "name": "HSBC Office Escape",
+    "description": "We worked with <a title='Plan-B' href='http://www.plan-bstudio.com/' target='_blank'>Plan-B Studio</a> and <a title='unit9' href='http://www.unit9.com/' target='_blank'>unit9</a> to create this office based zombie bashing rampage for HSBC Investments.", 
+    "id": "hsbc_office", 
+    "images": [
+        "img/projects/hsbc_office/thumb1.jpg", 
+        "img/projects/hsbc_office/thumb2.jpg", 
+        "img/projects/hsbc_office/thumb3.jpg"
+    ]
+}

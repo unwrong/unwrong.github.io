@@ -1,0 +1,10 @@
+{
+    "name": "Discover Card Send An Elf",
+    "description": "We developed this playful Flash microsite with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> for Discover Card.", 
+    "id": "discover_elf", 
+    "images": [
+        "img/projects/discover_elf/slide01.jpg",
+        "img/projects/discover_elf/slide02.jpg",
+        "img/projects/discover_elf/slide03.jpg"
+    ]
+}

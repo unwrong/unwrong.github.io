@@ -1,0 +1,11 @@
+{
+    "name": "Sky Sports World Cup Glory",
+    "description": "We developed this Flash football game with <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> to promote Sky Sports World Cup coverage. Players can choose from any of the 32 competing teams to play against the CPU in tournament mode, or challenge a second human player in Friendly mode.", 
+    "id": "sky_world_cup", 
+    "images": [
+        "img/projects/sky_world_cup/slide01.jpg",
+        "img/projects/sky_world_cup/slide02.jpg",
+        "img/projects/sky_world_cup/slide03.jpg",
+        "img/projects/sky_world_cup/slide04.jpg"
+    ]
+}

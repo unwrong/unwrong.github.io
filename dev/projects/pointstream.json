@@ -1,0 +1,11 @@
+{
+    "name": "US Open PointStream",
+    "description": "Working with unit9 we help to refine, model and test the live data streams from the US Open matches. This involved re-familiarising ourselves with the finer points in the Tennis rule book and helping to define which game state changes needed to be explicitly stated, and which could be inferred. Amongst other things, the model was built to facilitate historical data correction in the event that erroneous data was discovered in the feed during a live game.", 
+    "id": "pointstream", 
+    "images": [
+        "img/projects/pointstream/1.jpg", 
+        "img/projects/pointstream/2.jpg", 
+        "img/projects/pointstream/3.jpg",
+        "img/projects/pointstream/4.jpg"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Battleships Torpedo Attack",
+    "description": "Working with <a title='Skive' href='http://www.skive.co.uk' target='_blank'>Skive</a> we developed this Flash game to promote the board game by Hasbro. Try your hand at this old classic with a modern twist.", 
+    "id": "battleships", 
+    "images": [
+        "img/projects/battleships/slide01.jpg",
+        "img/projects/battleships/slide02.jpg"
+    ]
+}

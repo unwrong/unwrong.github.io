@@ -1,0 +1,10 @@
+{
+    "name": "Samsung Pixon",
+    "description": "Working with <a title='unit9' href='http://www.unit9.com' target='_blank'>unit9</a> we created the 3D USP viewer menu for this project. Interact by dragging the items vertically &amp; horizontally, or by using the mousewheel", 
+    "id": "samsung_pixon", 
+    "images": [
+        "img/projects/samsung_pixon/slide01.jpg", 
+        "img/projects/samsung_pixon/slide02.jpg",
+        "img/projects/samsung_pixon/slide03.jpg"
+    ]
+}
