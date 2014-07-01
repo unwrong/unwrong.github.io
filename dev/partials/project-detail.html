@@ -1,38 +1,39 @@
-<div class="project-detail">
+<div class="row project-detail">
     <!--<div class="project-images">
         <img ng-src="{{mainImageUrl}}" class="project">
     </div>
         -->
-
-    <ul rn-carousel rn-carousel-buffered rn-carousel-indicator rn-carousel-index="slideIndex" rn-carousel-swipe="{{swipe}}" class="my-slider ng-cloak">
-        <li ng-repeat="slide in project.images" ng-style="{'background-image': 'url(' + slide + ')'}">
-            <!--<div class="debug">
-                {{ slide.label }} / {{ project.images.length }}
-                <br>
-                carouselIndex: {{ carouselIndex }}<br>
-                carouselBufferIndex: {{ carouselBufferIndex }}<br>
-            </div>-->
-        </li>
-    </ul>
-    <div class="controls ng-cloak">
-        <button class="button grey" ng-disabled="slideIndex==0" ng-click="prev()">prev</button>
-        <span>{{ slideIndex + 1 }} / {{ project.images.length }}</span>
-        <button class="button grey" ng-click="next()" ng-disabled="slideIndex==project.images.length-1">next</button>
-        <!--<button class="button grey" ng-click="pushSlide()">add 3 slides</button>
-        <button class="button grey" ng-click="toggleSwipe()">toggle swipe ({{ swipe?'on':'off' }})</button>-->
+    <div class="col-md-6">
+        <ul rn-carousel rn-carousel-buffered rn-carousel-indicator rn-carousel-index="slideIndex" rn-carousel-swipe="{{swipe}}" class="my-slider ng-cloak">
+            <li ng-repeat="slide in project.images" ng-style="{'background-image': 'url(' + slide + ')'}">
+                <!--<div class="debug">
+                    {{ slide.label }} / {{ project.images.length }}
+                    <br>
+                    carouselIndex: {{ carouselIndex }}<br>
+                    carouselBufferIndex: {{ carouselBufferIndex }}<br>
+                </div>-->
+            </li>
+        </ul>
+        <div class="controls ng-cloak">
+            <button class="button grey" ng-disabled="slideIndex==0" ng-click="prev()">prev</button>
+            <span>{{ slideIndex + 1 }} / {{ project.images.length }}</span>
+            <button class="button grey" ng-click="next()" ng-disabled="slideIndex==project.images.length-1">next</button>
+            <!--<button class="button grey" ng-click="pushSlide()">add 3 slides</button>
+            <button class="button grey" ng-click="toggleSwipe()">toggle swipe ({{ swipe?'on':'off' }})</button>-->
+        </div>
     </div>
-
-    <!--<div>-->
+    <div class="col-md-6">
+        <!--<div>-->
         <h1 ng-bind-html="parseHTML(project.name)"></h1>
 
         <p ng-bind-html="parseHTML(project.description)"></p>
-
-        <!--
-        <ul class="project-thumbs">
-            <li ng-repeat="img in project.images">
-                <img ng-src="{{img}}" ng-click="setImage(img)">
-            </li>
-        </ul>
-            -->
+    </div>
+    <!--
+    <ul class="project-thumbs">
+        <li ng-repeat="img in project.images">
+            <img ng-src="{{img}}" ng-click="setImage(img)">
+        </li>
+    </ul>
+        -->
     <!--</div>-->
 </div>
